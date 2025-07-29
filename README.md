@@ -1,0 +1,2 @@
+# speech-to-emotion-detection
+The Speech Emotion Recognition (SER) project aims to detect human emotions based on spoken language using natural language processing techniques. This application captures real-time speech input from the user, converts the audio to text, and then analyzes the text to determine the emotional tone behind the spoken words.It provides a simple but powerful interface for understanding a speaker's emotions using Python and a few open-source libraries.
